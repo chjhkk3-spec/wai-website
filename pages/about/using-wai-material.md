@@ -27,7 +27,8 @@ You can generally use WAI material for free, with two conditions:
 <p>Resources on the WAI website are <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/Consortium/Legal/copyright-documents">document use</a> rules apply to all pages, unless otherwise noted as Creative Commons license.</p>
 
 {::nomarkdown}
-{% include box.html type="end" %}
+{% include box.html type="end" 1200
+1200%}
 {:/}
 
 
